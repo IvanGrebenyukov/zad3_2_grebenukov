@@ -1,4 +1,4 @@
-package com.example.zad3_2_grebenukov
+package com.example.zad3_2_grebenukov.Activity
 
 import android.app.Activity
 import android.content.Intent

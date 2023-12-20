@@ -1,4 +1,4 @@
-package com.example.zad3_2_grebenukov
+package com.example.zad3_2_grebenukov.Activity
 
 
 import android.os.Bundle
@@ -6,6 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import com.example.zad3_2_grebenukov.Fragments.MoviesByGenreFragment
 import com.example.zad3_2_grebenukov.Fragments.NewsFragment
+import com.example.zad3_2_grebenukov.R
 import com.example.zad3_2_grebenukov.databinding.ActivityQuestsBinding
 
 
@@ -33,8 +34,8 @@ class QuestsActivity : AppCompatActivity() {
                     loadFragment(fragment)
                     return@setOnNavigationItemSelectedListener true
                 }
-                R.id.horror -> {
-                    val selectedValue = "horror"
+                R.id.drama -> {
+                    val selectedValue = "drama"
                     val fragment = MoviesByGenreFragment.newInstance(selectedValue)
                     loadFragment(fragment)
                     return@setOnNavigationItemSelectedListener true

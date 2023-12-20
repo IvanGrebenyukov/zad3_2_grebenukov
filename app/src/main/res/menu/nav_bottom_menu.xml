@@ -9,7 +9,7 @@
     <item android:id="@+id/comedy"
         android:title="Комедии"
         android:icon="@drawable/baseline_comedy"/>
-    <item android:id="@+id/horror"
-        android:title="Ужасы"
-        android:icon="@drawable/baseline_horror"/>
+    <item android:id="@+id/drama"
+        android:title="Драма"
+        android:icon="@drawable/baseline_drama"/>
 </menu>

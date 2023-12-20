@@ -14,6 +14,7 @@
         android:textCursorDrawable="@drawable/focus_design"
         android:hint="@string/search_example"/>
     <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rcMovies"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginTop="60dp"

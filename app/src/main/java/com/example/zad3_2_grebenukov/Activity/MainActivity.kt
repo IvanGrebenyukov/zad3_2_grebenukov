@@ -1,9 +1,10 @@
-package com.example.zad3_2_grebenukov
+package com.example.zad3_2_grebenukov.Activity
 
 import android.app.Activity
 import android.content.Intent
 import android.os.Bundle
 import android.os.CountDownTimer
+import com.example.zad3_2_grebenukov.R
 
 class MainActivity : Activity() {
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -5,6 +5,6 @@
     </style>
     <style name="BottomNavigationText" parent="TextAppearance.AppCompat">>
         <item name="android:textColor">#14c8af</item>
-        <item name="android:textColorHint">#85ffffff</item>
+        <item name="android:textColorHint">#14c8af</item>
     </style>
 </resources>
