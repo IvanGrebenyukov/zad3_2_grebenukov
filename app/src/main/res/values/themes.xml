@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Zad3_2_grebenukov" parent="@style/Theme.Leanback" />
+</resources>

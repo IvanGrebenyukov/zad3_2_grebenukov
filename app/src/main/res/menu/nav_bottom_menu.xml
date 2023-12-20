@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/news"
+        android:title="Новости"
+        android:icon="@drawable/baseline_news"/>
+    <item android:id="@+id/action"
+        android:title="Боевики"
+        android:icon="@drawable/baseline_boevik"/>
+    <item android:id="@+id/comedy"
+        android:title="Комедии"
+        android:icon="@drawable/baseline_comedy"/>
+    <item android:id="@+id/horror"
+        android:title="Ужасы"
+        android:icon="@drawable/baseline_horror"/>
+</menu>

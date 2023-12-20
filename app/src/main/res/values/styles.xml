@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BottomNavigationStyle" parent="Widget.Design.BottomNavigationView">
+        <item name="android:itemTextAppearance">@style/BottomNavigationText</item>
+    </style>
+    <style name="BottomNavigationText" parent="TextAppearance.AppCompat">>
+        <item name="android:textColor">#14c8af</item>
+        <item name="android:textColorHint">#85ffffff</item>
+    </style>
+</resources>
